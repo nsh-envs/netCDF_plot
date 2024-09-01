@@ -1,7 +1,9 @@
 *.nc
 *.mp4
 *.png
+prev_runs/
 frames_video_0/
 nc/
 only_camsg_ff/
 only_jena_ocn/
+.ipynb_checkpoints/
